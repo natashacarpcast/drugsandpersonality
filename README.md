@@ -40,6 +40,10 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 
 ## Repository Structure <a name="repo"></a>
 
+- Drug_Consumption.csv: personality and drug consumption data obtained from [Kaggle](https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci)
+- DrugsPersonality.ipynb: jupyter notebook containing exploratory data analysis, model exploration and evaluation
+- README.md: this file
+
 ## Dependencies <a name="dependencies"></a>
 
 - python 3.11.4
