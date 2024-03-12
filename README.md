@@ -1,25 +1,29 @@
 # Personality and Drug Consumption
 
-[Motivation](##Conclusions)
+[Motivation](#motivation)
+[Research Questions](#rq)
+[Methodology](#methodology)
+[Conclusions](#conclusions)
+[Future directions](#futuredirections)
 
-## Motivation
+## Motivation <a name="motivation"></a>
 This project was motivated by the fact that drugs take a lot of lives. According to the CDC (2023) “In 2021, 106,699 drug overdose deaths occurred in the United States”. The main goal was to understand how different traits of personality interact with each other in determining the risk of drug consumption. Therefore, better prevention measures could be taken. 
 
-## Research Questions
+## Research Questions <a name="rq"></a>
 The two main research questions were:
 1. Can we predict drug consumption based on personality?
 2. Which dimensions of personality/combination of dimensions have more influence in determining drug consumption?
 
-## Methodology
+## Methodology <a name="methodology"></a>
 To achieve the goal and answer the research questions, I utilized supervised machine learning algorithms for binary classification. I first conducted a detailed exploratory data analysis to get an understanding of the dataset's characteristics. I then employed various methodologies, including a decision tree classifier, a random forest classifier, logistic regression, and a deep learning model. To ensure optimal performance, I incorporated hyper-parameter fine-tuning techniques like grid search and cross-validation. Finally, I performed a thorough model evaluation by interpreting different metrics of the testing results, such as confusion matrix and recall scores. 
 
-## Conclusions 
+## Conclusions  <a name="conclusions"></a>
 * Although none of the models proved to be sufficiently predictive, this experience allowed me to gain knowledge about the Machine Learning workflow and provided me with the necessary tools for future projects.
 * Research Question 1 -  Personality by itself may not be enough to predict drug consumption
 * Research Question 2 - No dimension of personality or combination of dimensions were found to have an important influence
 * Other factors,  such as  demographics and life conditions should be taken into consideration.
 
-## Future directions
+## Future directions <a name="futuredirections"></a>
 * Try collecting more data (with more variables, diverse demographics, and samples)
 * Try using ensemble methods
 
