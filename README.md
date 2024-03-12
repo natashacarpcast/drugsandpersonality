@@ -1,5 +1,7 @@
 # Personality and Drug Consumption
 
+[Motivation](##motivation)
+
 ## Motivation
 This project was motivated by the fact that “in 2021, 106,699 drug overdose deaths occurred in the United States” (CDC, 2023). The main goal was to understand how different traits of personality interact with each other in determining the risk of drug consumption. Therefore, better prevention measures could be taken. 
 
