@@ -26,13 +26,13 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 
 ## Conclusions  <a name="conclusions"></a>
 * Although none of the models proved to be sufficiently predictive, this experience allowed me to gain knowledge about the Machine Learning workflow and provided me with the necessary tools for future projects.
-* Research Question 1 -  Personality by itself may not be enough to predict drug consumption
-* Research Question 2 - No dimension of personality or combination of dimensions were found to have an important influence
+* Research Question 1 -  Personality by itself may not be enough to predict drug consumption.
+* Research Question 2 - No dimension of personality or combination of dimensions were found to have an important influence.
 * Other factors,  such as  demographics and life conditions should be taken into consideration.
 
 ## Future directions <a name="futuredirections"></a>
-* Try collecting more data (with more variables, diverse demographics, and samples)
-* Try using ensemble methods
+* Try collecting more data (with more variables, diverse demographics, and samples).
+* Try using ensemble methods.
 
 ## Presentation of the project <a name="presentation"></a>
 - [Slides for presentation of the project](https://www.canva.com/design/DAF-qJzHIY8/3lxNBafm2T4qWBzBc6a5kQ/view?utm_content=DAF-qJzHIY8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
