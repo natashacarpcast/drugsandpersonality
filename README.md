@@ -42,4 +42,7 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 
 ## Dependencies <a name="dependencies"></a>
 
+- Python 3.11.4
+- 
+
 ## How to run <a name="run"></a>
