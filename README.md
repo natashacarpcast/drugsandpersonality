@@ -5,4 +5,5 @@ For this project "Personality and Drug Consumption", my goal was to predict drug
 Although none of the models proved to be sufficiently predictive, this experience allowed me to gain knowledge about the Machine Learning workflow and provided me with the necessary tools for future projects.
 
 [Slides for presentation of the project](https://www.canva.com/design/DAF-qJzHIY8/3lxNBafm2T4qWBzBc6a5kQ/view?utm_content=DAF-qJzHIY8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 [Video presenting the project](https://drive.google.com/file/d/1U0d5iA_lCYjTB0uFn75KX8PonKDrr6S6/view)
