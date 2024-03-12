@@ -53,3 +53,8 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 - tensorflow 2.12.0
 
 ## How to run <a name="run"></a>
+
+1. Clone the repository in a local machine
+2. Use an integrated development environment such as VS code.
+3. Make sure to have all the necessary dependendencies installed
+4. Run
