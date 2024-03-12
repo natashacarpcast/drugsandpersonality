@@ -1,10 +1,16 @@
 # Personality and Drug Consumption
 
-[Motivation](#motivation)
-[Research Questions](#rq)
-[Methodology](#methodology)
-[Conclusions](#conclusions)
-[Future directions](#futuredirections)
+Project Overview
+- [Motivation](#motivation)
+- [Research Questions](#rq)
+- [Methodology](#methodology)
+- [Conclusions](#conclusions)
+- [Future directions](#futuredirections)
+- [Presentation](#presentation)
+
+Getting started
+- [Dependencies](#dependencies)
+- [How to run](#run)
 
 ## Motivation <a name="motivation"></a>
 This project was motivated by the fact that drugs take a lot of lives. According to the CDC (2023) “In 2021, 106,699 drug overdose deaths occurred in the United States”. The main goal was to understand how different traits of personality interact with each other in determining the risk of drug consumption. Therefore, better prevention measures could be taken. 
@@ -27,7 +33,10 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 * Try collecting more data (with more variables, diverse demographics, and samples)
 * Try using ensemble methods
 
-## Presentation of the project
-[Slides for presentation of the project](https://www.canva.com/design/DAF-qJzHIY8/3lxNBafm2T4qWBzBc6a5kQ/view?utm_content=DAF-qJzHIY8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Presentation of the project <a name="presentation"></a>
+- [Slides for presentation of the project](https://www.canva.com/design/DAF-qJzHIY8/3lxNBafm2T4qWBzBc6a5kQ/view?utm_content=DAF-qJzHIY8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Video presenting the project](https://drive.google.com/file/d/1U0d5iA_lCYjTB0uFn75KX8PonKDrr6S6/view)
 
-[Video presenting the project](https://drive.google.com/file/d/1U0d5iA_lCYjTB0uFn75KX8PonKDrr6S6/view)
+## Dependencies <a name="dependencies"></a>
+
+## How to run <a name="run"></a>
