@@ -6,9 +6,10 @@ Project Overview
 - [Methodology](#methodology)
 - [Conclusions](#conclusions)
 - [Future directions](#futuredirections)
-- [Presentation](#presentation)
+- [Presentation of the project](#presentation)
 
 Getting started
+- [Repository structure](#repo)
 - [Dependencies](#dependencies)
 - [How to run](#run)
 
@@ -36,6 +37,8 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 ## Presentation of the project <a name="presentation"></a>
 - [Slides for presentation of the project](https://www.canva.com/design/DAF-qJzHIY8/3lxNBafm2T4qWBzBc6a5kQ/view?utm_content=DAF-qJzHIY8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Video presenting the project](https://drive.google.com/file/d/1U0d5iA_lCYjTB0uFn75KX8PonKDrr6S6/view)
+
+## Repository Structure <a name="repo"></a>
 
 ## Dependencies <a name="dependencies"></a>
 
