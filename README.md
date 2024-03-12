@@ -42,7 +42,14 @@ To achieve the goal and answer the research questions, I utilized supervised mac
 
 ## Dependencies <a name="dependencies"></a>
 
-- Python 3.11.4
-- 
+- python 3.11.4
+  
+- numpy 1.23.5
+- pandas 1.5.3
+- graphviz 2.50.0
+- matplotlib 3.7.1
+- seaborn 0.12.2
+- keras 2.12.0
+- tensorflow 2.12.0
 
 ## How to run <a name="run"></a>
